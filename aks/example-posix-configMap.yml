@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: player-posix-demo
+data:
+  player_lives: "5"
+  PROPERTIES_FILE_NAME: "user-interface.properties"
+  base_properties: "Template1"
+  USER_INTERFACE_PROPERTIES: "Dark"

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-producer/service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-producer/service/src/main/java/net/apmoller/crb/ssib/microservices/adf/producer/services/FacilitiesService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-rates-producer/integrationtest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-rates-producer/service/src/main/java/net/apmoller/crb/ssib/microservices/adf/rates/producer/repository/ChargeTypeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-rates-producer/service/src/test/java/net/apmoller/crb/ssib/microservices/adf/rates/producer/repositories/ChargeTypeRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-route-availability-producer/integrationtest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-route-availability-producer/integrationtest/src/test/java/net/apmoller/crb/ssib/microservices/adf/route/availability/producer/steps/WhenRouteAvailabilityStepsDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-route-availability-producer/integrationtest/src/test/resources/testConfiguration.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-route-availability-producer/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-route-availability-producer/service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-route-availability-producer/service/src/main/java/net/apmoller/crb/ssib/microservices/adf/route/availability/producer/repositories/PhysicalSpaceRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-route-availability-producer/service/src/main/resources/application-preprod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-route-availability-producer/service/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-adf-route-availability-producer/spec/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-booking-amendment-processor/service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-booking-amendment-processor/service/src/main/java/net/apmoller/crb/ao/microservices/booking/amendment/processor/producer/BookingEventProducer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-booking-request-producer/service/src/main/java/net/apmoller/crb/ssib/microservices/booking/request/producer/controllers/BookingRequestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-booking-request-producer/service/src/main/java/net/apmoller/crb/ssib/microservices/booking/request/producer/mapper/HaulageResponseMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-booking-request-producer/spec/src/main/resources/swagger.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-core-booking-adapter/integrationtest/src/test/resources/data/submitBooking/GeneralQueryResponse.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gitRepo/ssib-spring-parent/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aks/example-posix-configMap.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/aks/pod_spec.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/howtodoinjava/demo/SimpleRestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springbootactuatordemo/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../projectr/ssib-spring-parent/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
